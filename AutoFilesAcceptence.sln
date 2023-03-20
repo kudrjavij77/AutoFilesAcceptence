@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFilesAcceptence", "AutoFilesAcceptence.csproj", "{4207A331-7E32-4984-9BEC-06509C735E18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestAutoFilesAcceptence", "..\UnitTestAutoFilesAcceptence\UnitTestAutoFilesAcceptence.csproj", "{6D00FD43-A58E-4D37-8E18-20E085F9CC4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4207A331-7E32-4984-9BEC-06509C735E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4207A331-7E32-4984-9BEC-06509C735E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4207A331-7E32-4984-9BEC-06509C735E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4207A331-7E32-4984-9BEC-06509C735E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D00FD43-A58E-4D37-8E18-20E085F9CC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D00FD43-A58E-4D37-8E18-20E085F9CC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D00FD43-A58E-4D37-8E18-20E085F9CC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D00FD43-A58E-4D37-8E18-20E085F9CC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAB43770-9CEA-452F-9CED-D554338C77BF}
+	EndGlobalSection
+EndGlobal
